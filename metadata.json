@@ -1,0 +1,7 @@
+{
+  "name": "FinPulse Pro - Budget, Expense & Savings Tracker",
+  "description": "Real-time expense tracking, automated savings goals, visual spending analytics, and multi-currency support with offline IndexedDB storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
